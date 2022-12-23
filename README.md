@@ -16,4 +16,4 @@ If you want to run it via cron, you probably want to replace all `$HOME` with th
 In case of issues run with `-d` and share the output
 
 # TODOs
--[ ] Add support for `ignoreHiddenFiles` config
+- [ ] Add support for `ignoreHiddenFiles` config
