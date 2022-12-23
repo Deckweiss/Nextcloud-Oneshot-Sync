@@ -8,7 +8,12 @@ It requires that the nextcloud desktop app is authorized with KDE wallet, which 
 1. download `nextcloud-oneshot-sync`
 2. move it somewhere in your PATH like `~/.local/bin`
 3. make it executable
-4. test it by running it manually through a terminal
-5. if you want to run it via cron, you probably want to replace all `$HOME` with the path to your home
+4. run it through a terminal
+
+# Notes
+If you want to run it via cron, you probably want to replace all `$HOME` with the path to your home
 
 In case of issues run with `-d` and share the output
+
+# TODOs
+-[ ] Add support for `ignoreHiddenFiles` config
