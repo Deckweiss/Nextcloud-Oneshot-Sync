@@ -170,7 +170,7 @@ do
     case "$OPT" in
         h) printHelp ;;
         v) _VERBOSE=6 ;;
-        d) _VERBOSE=7;;
+        d) _VERBOSE=7 ;;
         s) _VERBOSE=4 ;;
         ?) printHelp ;;
     esac
