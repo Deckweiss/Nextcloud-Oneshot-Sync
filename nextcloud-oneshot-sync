@@ -46,6 +46,7 @@ function .log () {
 
   lastLevel=$LEVEL
 }
+
 function printHelp(){
   for i in $(seq 1 $COLUMNS); do echo -n '─'; done; echo ''
   echo -e 'How to use:'
