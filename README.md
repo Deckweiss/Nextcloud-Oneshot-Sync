@@ -9,4 +9,6 @@ It requires that the nextcloud desktop app is authorized with KDE wallet, which 
 2. move it somewhere in your PATH like `~/.local/bin`
 3. make it executable
 4. test it by running it manually through a terminal
-5. in case of issues run with `-d` and share the output
+5. if you want to run it via cron, you probably want to replace all `$HOME` with the path to your home
+
+In case of issues run with `-d` and share the output
