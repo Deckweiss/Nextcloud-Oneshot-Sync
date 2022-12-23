@@ -17,6 +17,6 @@ In case of issues run with `-d` and share the output.
 
 # TODOs
 - [ ] Add support for `ignoreHiddenFiles` config
-- [ ] Clean up log
+- [ ] Clean up logfile
 - [ ] Make it out of the box compatible with cron
 - [ ] Distribute via AUR
