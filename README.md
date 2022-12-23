@@ -11,9 +11,9 @@ It requires that the nextcloud desktop app is authorized with KDE wallet, which 
 4. run it through a terminal
 
 # Notes
-If you want to run it via cron, you probably want to replace all `$HOME` with the path to your home
+If you want to run it via cron, you probably want to replace all `$HOME` with the path to your home.
 
-In case of issues run with `-d` and share the output
+In case of issues run with `-d` and share the output.
 
 # TODOs
 - [ ] Add support for `ignoreHiddenFiles` config
